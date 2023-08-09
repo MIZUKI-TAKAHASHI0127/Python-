@@ -20,6 +20,7 @@ python3 -m venv myenv
 
 source myenv/bin/activate
 
+source mizu/bin/activate
 
 4.Django のインストール: 仮想環境がアクティブな状態で、次のコマンドを実行して Django をインストールする。
 
